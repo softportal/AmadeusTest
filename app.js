@@ -1,35 +1,30 @@
-var express = require ('express');
+var express = require('express'),
+    app = express(),
+    port = process.env.PORT || 3000,
+    mongoose = require('mongoose'),
+    Task = require('./models/airport'), //created model loading here
+    bodyParser = require('body-parser');
 
-// web server library constructor
-var app = express();
-var mongoose = require('mongoose');
-
-var mongoDB = '127.0.0.1';
-
-//Set up mongoose connection
-mongoose.connect(mongoDB);
 mongoose.Promise = global.Promise;
 
-var db = mongoose.connection;
-db.on('error', console.error.bind(console, 'MongoDB connection error:'));
+var mongoDB = 'mongodb://127.0.0.1';
+mongoose.connect(mongoDB);
 
-var mongoose = require('mongoose');
-
-var Schema = mongoose.Schema;
-
-var airport_schema = new Schema(
-{
-    airportId: {type: String, required: true},
-    nameAirport: {type: String, required: true},
-    codeIataAirport: {type: String },
-    codeIso2Country: {type: String },
-    codeIataCity: {type: String }
-});
+app.use(bodyParser.urlencoded({ extended: true }));
+app.use(bodyParser.json());
 
 
-app.get('/', function (req, res) {
-      res.send('Hello World!');
-});
+var routes = require('./routes'); //importing route
+routes(app); //register the route
+
+//Set up mongoose connection
+
+//var db = mongoose.connection;
+//db.on('error', console.error.bind(console, 'MongoDB connection error:'));
+
+//app.get('/', function (req, res) {
+//      res.send('Hello World!');
+//});
 
 app.listen(3000, function () {
       console.log('Example app listening on port 3000!');

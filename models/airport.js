@@ -12,8 +12,8 @@ var airport_schema = new Schema(
 });
 
 
-airport_schema.virtual('url').get(function () {
-    return '/test/airport/' + this._id;
-});
+//airport_schema.virtual('url').get(function () {
+//    return '/test/airport/' + this._id;
+//});
 
-module.exports = mongoose.model('Book', BookSchema);
+module.exports = mongoose.model('airport', airport_schema);
