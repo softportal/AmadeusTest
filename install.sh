@@ -12,9 +12,9 @@
 
 cd IATA_json
 
-mongoimport -c cities -d test --mode upsert --jsonArray --file cities.json
-mongoimport -c airports -d test --mode upsert --jsonArray --file airports.json
-mongoimport -c countries -d test --mode upsert --jsonArray --file countries.json
+mongoimport -c cities -d test --jsonArray --file cities.json
+mongoimport -c airports -d test --jsonArray --file airports.json
+mongoimport -c countries -d test --jsonArray --file countries.json
 
 
 
