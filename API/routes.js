@@ -6,4 +6,6 @@ module.exports = function(app) {
     app.route('/airports').get(controller.list_all_airports);
 
     app.route('/test').get(controller.test);
+
+    app.route('/search').get(controller.search);
 };

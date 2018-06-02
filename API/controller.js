@@ -35,3 +35,27 @@ exports.test = function(req, res) {
 
 };
 
+exports.search = function(req, res) {
+    //
+    //amadeus
+    console.log(req);
+    var api_result = amadeus.shopping.flightDestinations.get({
+        origin: req.query.origin,
+        maxPrice: req.query.price,
+	departureDate: req.query.init,
+	oneWay: false,
+	duration: req.query.end
+    })
+
+    api_result.then(function(response){
+        res.json(response.result)
+    }).catch(function(error){
+        console.log(error.response); //=> The response object with (un)parsed data
+        console.log(error.response.request); //=> The details of the request made
+        console.log(error.code); //=> A unique error code to identify the type of error
+    });
+
+
+    //res.json(api_result);
+
+};
