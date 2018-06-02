@@ -1,0 +1,1262 @@
+[
+    {
+        "countryId": "1",
+        "nameCountry": "Andorra",
+        "codeIso2Country": "AD"
+    },
+    {
+        "countryId": "2",
+        "nameCountry": "United Arab Emirates",
+        "codeIso2Country": "AE"
+    },
+    {
+        "countryId": "3",
+        "nameCountry": "Afghanistan",
+        "codeIso2Country": "AF"
+    },
+    {
+        "countryId": "4",
+        "nameCountry": "Antigua and Barbuda",
+        "codeIso2Country": "AG"
+    },
+    {
+        "countryId": "5",
+        "nameCountry": "Anguilla",
+        "codeIso2Country": "AI"
+    },
+    {
+        "countryId": "6",
+        "nameCountry": "Albania",
+        "codeIso2Country": "AL"
+    },
+    {
+        "countryId": "7",
+        "nameCountry": "Armenia",
+        "codeIso2Country": "AM"
+    },
+    {
+        "countryId": "8",
+        "nameCountry": "Netherlands Antilles",
+        "codeIso2Country": "AN"
+    },
+    {
+        "countryId": "9",
+        "nameCountry": "Angola",
+        "codeIso2Country": "AO"
+    },
+    {
+        "countryId": "10",
+        "nameCountry": "Antarctica",
+        "codeIso2Country": "AQ"
+    },
+    {
+        "countryId": "11",
+        "nameCountry": "Argentina",
+        "codeIso2Country": "AR"
+    },
+    {
+        "countryId": "12",
+        "nameCountry": "American Samoa",
+        "codeIso2Country": "AS"
+    },
+    {
+        "countryId": "13",
+        "nameCountry": "Austria",
+        "codeIso2Country": "AT"
+    },
+    {
+        "countryId": "14",
+        "nameCountry": "Australia",
+        "codeIso2Country": "AU"
+    },
+    {
+        "countryId": "15",
+        "nameCountry": "Aruba",
+        "codeIso2Country": "AW"
+    },
+    {
+        "countryId": "16",
+        "nameCountry": "Aland Islands",
+        "codeIso2Country": "AX"
+    },
+    {
+        "countryId": "17",
+        "nameCountry": "Azerbaijan",
+        "codeIso2Country": "AZ"
+    },
+    {
+        "countryId": "18",
+        "nameCountry": "Bosnia and Herzegovina",
+        "codeIso2Country": "BA"
+    },
+    {
+        "countryId": "19",
+        "nameCountry": "Barbados",
+        "codeIso2Country": "BB"
+    },
+    {
+        "countryId": "20",
+        "nameCountry": "Bangladesh",
+        "codeIso2Country": "BD"
+    },
+    {
+        "countryId": "21",
+        "nameCountry": "Belgium",
+        "codeIso2Country": "BE"
+    },
+    {
+        "countryId": "22",
+        "nameCountry": "Burkina Faso",
+        "codeIso2Country": "BF"
+    },
+    {
+        "countryId": "23",
+        "nameCountry": "Bulgaria",
+        "codeIso2Country": "BG"
+    },
+    {
+        "countryId": "24",
+        "nameCountry": "Bahrain",
+        "codeIso2Country": "BH"
+    },
+    {
+        "countryId": "25",
+        "nameCountry": "Burundi",
+        "codeIso2Country": "BI"
+    },
+    {
+        "countryId": "26",
+        "nameCountry": "Benin",
+        "codeIso2Country": "BJ"
+    },
+    {
+        "countryId": "27",
+        "nameCountry": "Saint BarthÃ©lemy",
+        "codeIso2Country": "BL"
+    },
+    {
+        "countryId": "28",
+        "nameCountry": "Bermuda",
+        "codeIso2Country": "BM"
+    },
+    {
+        "countryId": "29",
+        "nameCountry": "Brunei",
+        "codeIso2Country": "BN"
+    },
+    {
+        "countryId": "30",
+        "nameCountry": "Bolivia",
+        "codeIso2Country": "BO"
+    },
+    {
+        "countryId": "31",
+        "nameCountry": "Bonaire, Saint Eustatius and Saba ",
+        "codeIso2Country": "BQ"
+    },
+    {
+        "countryId": "32",
+        "nameCountry": "Brazil",
+        "codeIso2Country": "BR"
+    },
+    {
+        "countryId": "33",
+        "nameCountry": "Bahamas",
+        "codeIso2Country": "BS"
+    },
+    {
+        "countryId": "34",
+        "nameCountry": "Bhutan",
+        "codeIso2Country": "BT"
+    },
+    {
+        "countryId": "35",
+        "nameCountry": "Bouvet Island",
+        "codeIso2Country": "BV"
+    },
+    {
+        "countryId": "36",
+        "nameCountry": "Botswana",
+        "codeIso2Country": "BW"
+    },
+    {
+        "countryId": "37",
+        "nameCountry": "Belarus",
+        "codeIso2Country": "BY"
+    },
+    {
+        "countryId": "38",
+        "nameCountry": "Belize",
+        "codeIso2Country": "BZ"
+    },
+    {
+        "countryId": "39",
+        "nameCountry": "Canada",
+        "codeIso2Country": "CA"
+    },
+    {
+        "countryId": "40",
+        "nameCountry": "Cocos Islands",
+        "codeIso2Country": "CC"
+    },
+    {
+        "countryId": "41",
+        "nameCountry": "Democratic Republic of the Congo",
+        "codeIso2Country": "CD"
+    },
+    {
+        "countryId": "42",
+        "nameCountry": "Central African Republic",
+        "codeIso2Country": "CF"
+    },
+    {
+        "countryId": "43",
+        "nameCountry": "Republic of the Congo",
+        "codeIso2Country": "CG"
+    },
+    {
+        "countryId": "44",
+        "nameCountry": "Switzerland",
+        "codeIso2Country": "CH"
+    },
+    {
+        "countryId": "45",
+        "nameCountry": "Ivory Coast",
+        "codeIso2Country": "CI"
+    },
+    {
+        "countryId": "46",
+        "nameCountry": "Cook Islands",
+        "codeIso2Country": "CK"
+    },
+    {
+        "countryId": "47",
+        "nameCountry": "Chile",
+        "codeIso2Country": "CL"
+    },
+    {
+        "countryId": "48",
+        "nameCountry": "Cameroon",
+        "codeIso2Country": "CM"
+    },
+    {
+        "countryId": "49",
+        "nameCountry": "China",
+        "codeIso2Country": "CN"
+    },
+    {
+        "countryId": "50",
+        "nameCountry": "Colombia",
+        "codeIso2Country": "CO"
+    },
+    {
+        "countryId": "51",
+        "nameCountry": "Costa Rica",
+        "codeIso2Country": "CR"
+    },
+    {
+        "countryId": "52",
+        "nameCountry": "Serbia and Montenegro",
+        "codeIso2Country": "CS"
+    },
+    {
+        "countryId": "53",
+        "nameCountry": "Cuba",
+        "codeIso2Country": "CU"
+    },
+    {
+        "countryId": "54",
+        "nameCountry": "Cape Verde",
+        "codeIso2Country": "CV"
+    },
+    {
+        "countryId": "55",
+        "nameCountry": "CuraÃ§ao",
+        "codeIso2Country": "CW"
+    },
+    {
+        "countryId": "56",
+        "nameCountry": "Christmas Island",
+        "codeIso2Country": "CX"
+    },
+    {
+        "countryId": "57",
+        "nameCountry": "Cyprus",
+        "codeIso2Country": "CY"
+    },
+    {
+        "countryId": "58",
+        "nameCountry": "Czech Republic",
+        "codeIso2Country": "CZ"
+    },
+    {
+        "countryId": "59",
+        "nameCountry": "Germany",
+        "codeIso2Country": "DE"
+    },
+    {
+        "countryId": "60",
+        "nameCountry": "Djibouti",
+        "codeIso2Country": "DJ"
+    },
+    {
+        "countryId": "61",
+        "nameCountry": "Denmark",
+        "codeIso2Country": "DK"
+    },
+    {
+        "countryId": "62",
+        "nameCountry": "Dominica",
+        "codeIso2Country": "DM"
+    },
+    {
+        "countryId": "63",
+        "nameCountry": "Dominican Republic",
+        "codeIso2Country": "DO"
+    },
+    {
+        "countryId": "64",
+        "nameCountry": "Algeria",
+        "codeIso2Country": "DZ"
+    },
+    {
+        "countryId": "65",
+        "nameCountry": "Ecuador",
+        "codeIso2Country": "EC"
+    },
+    {
+        "countryId": "66",
+        "nameCountry": "Estonia",
+        "codeIso2Country": "EE"
+    },
+    {
+        "countryId": "67",
+        "nameCountry": "Egypt",
+        "codeIso2Country": "EG"
+    },
+    {
+        "countryId": "68",
+        "nameCountry": "Western Sahara",
+        "codeIso2Country": "EH"
+    },
+    {
+        "countryId": "69",
+        "nameCountry": "Eritrea",
+        "codeIso2Country": "ER"
+    },
+    {
+        "countryId": "70",
+        "nameCountry": "Spain",
+        "codeIso2Country": "ES"
+    },
+    {
+        "countryId": "71",
+        "nameCountry": "Ethiopia",
+        "codeIso2Country": "ET"
+    },
+    {
+        "countryId": "72",
+        "nameCountry": "Finland",
+        "codeIso2Country": "FI"
+    },
+    {
+        "countryId": "73",
+        "nameCountry": "Fiji",
+        "codeIso2Country": "FJ"
+    },
+    {
+        "countryId": "74",
+        "nameCountry": "Falkland Islands",
+        "codeIso2Country": "FK"
+    },
+    {
+        "countryId": "75",
+        "nameCountry": "Micronesia",
+        "codeIso2Country": "FM"
+    },
+    {
+        "countryId": "76",
+        "nameCountry": "Faroe Islands",
+        "codeIso2Country": "FO"
+    },
+    {
+        "countryId": "77",
+        "nameCountry": "France",
+        "codeIso2Country": "FR"
+    },
+    {
+        "countryId": "78",
+        "nameCountry": "Gabon",
+        "codeIso2Country": "GA"
+    },
+    {
+        "countryId": "79",
+        "nameCountry": "United Kingdom",
+        "codeIso2Country": "GB"
+    },
+    {
+        "countryId": "80",
+        "nameCountry": "Grenada",
+        "codeIso2Country": "GD"
+    },
+    {
+        "countryId": "81",
+        "nameCountry": "Georgia",
+        "codeIso2Country": "GE"
+    },
+    {
+        "countryId": "82",
+        "nameCountry": "French Guiana",
+        "codeIso2Country": "GF"
+    },
+    {
+        "countryId": "83",
+        "nameCountry": "Guernsey",
+        "codeIso2Country": "GG"
+    },
+    {
+        "countryId": "84",
+        "nameCountry": "Ghana",
+        "codeIso2Country": "GH"
+    },
+    {
+        "countryId": "85",
+        "nameCountry": "Gibraltar",
+        "codeIso2Country": "GI"
+    },
+    {
+        "countryId": "86",
+        "nameCountry": "Greenland",
+        "codeIso2Country": "GL"
+    },
+    {
+        "countryId": "87",
+        "nameCountry": "Gambia",
+        "codeIso2Country": "GM"
+    },
+    {
+        "countryId": "88",
+        "nameCountry": "Guinea",
+        "codeIso2Country": "GN"
+    },
+    {
+        "countryId": "89",
+        "nameCountry": "Guadeloupe",
+        "codeIso2Country": "GP"
+    },
+    {
+        "countryId": "90",
+        "nameCountry": "Equatorial Guinea",
+        "codeIso2Country": "GQ"
+    },
+    {
+        "countryId": "91",
+        "nameCountry": "Greece",
+        "codeIso2Country": "GR"
+    },
+    {
+        "countryId": "92",
+        "nameCountry": "South Georgia and the South Sandwich Islands",
+        "codeIso2Country": "GS"
+    },
+    {
+        "countryId": "93",
+        "nameCountry": "Guatemala",
+        "codeIso2Country": "GT"
+    },
+    {
+        "countryId": "94",
+        "nameCountry": "Guam",
+        "codeIso2Country": "GU"
+    },
+    {
+        "countryId": "95",
+        "nameCountry": "Guinea-Bissau",
+        "codeIso2Country": "GW"
+    },
+    {
+        "countryId": "96",
+        "nameCountry": "Guyana",
+        "codeIso2Country": "GY"
+    },
+    {
+        "countryId": "97",
+        "nameCountry": "Hong Kong",
+        "codeIso2Country": "HK"
+    },
+    {
+        "countryId": "98",
+        "nameCountry": "Heard Island and McDonald Islands",
+        "codeIso2Country": "HM"
+    },
+    {
+        "countryId": "99",
+        "nameCountry": "Honduras",
+        "codeIso2Country": "HN"
+    },
+    {
+        "countryId": "100",
+        "nameCountry": "Croatia",
+        "codeIso2Country": "HR"
+    },
+    {
+        "countryId": "101",
+        "nameCountry": "Haiti",
+        "codeIso2Country": "HT"
+    },
+    {
+        "countryId": "102",
+        "nameCountry": "Hungary",
+        "codeIso2Country": "HU"
+    },
+    {
+        "countryId": "103",
+        "nameCountry": "Indonesia",
+        "codeIso2Country": "ID"
+    },
+    {
+        "countryId": "104",
+        "nameCountry": "Ireland",
+        "codeIso2Country": "IE"
+    },
+    {
+        "countryId": "105",
+        "nameCountry": "Israel",
+        "codeIso2Country": "IL"
+    },
+    {
+        "countryId": "106",
+        "nameCountry": "Isle of Man",
+        "codeIso2Country": "IM"
+    },
+    {
+        "countryId": "107",
+        "nameCountry": "India",
+        "codeIso2Country": "IN"
+    },
+    {
+        "countryId": "108",
+        "nameCountry": "British Indian Ocean Territory",
+        "codeIso2Country": "IO"
+    },
+    {
+        "countryId": "109",
+        "nameCountry": "Iraq",
+        "codeIso2Country": "IQ"
+    },
+    {
+        "countryId": "110",
+        "nameCountry": "Iran",
+        "codeIso2Country": "IR"
+    },
+    {
+        "countryId": "111",
+        "nameCountry": "Iceland",
+        "codeIso2Country": "IS"
+    },
+    {
+        "countryId": "112",
+        "nameCountry": "Italy",
+        "codeIso2Country": "IT"
+    },
+    {
+        "countryId": "113",
+        "nameCountry": "Jersey",
+        "codeIso2Country": "JE"
+    },
+    {
+        "countryId": "114",
+        "nameCountry": "Jamaica",
+        "codeIso2Country": "JM"
+    },
+    {
+        "countryId": "115",
+        "nameCountry": "Jordan",
+        "codeIso2Country": "JO"
+    },
+    {
+        "countryId": "116",
+        "nameCountry": "Japan",
+        "codeIso2Country": "JP"
+    },
+    {
+        "countryId": "117",
+        "nameCountry": "Kenya",
+        "codeIso2Country": "KE"
+    },
+    {
+        "countryId": "118",
+        "nameCountry": "Kyrgyzstan",
+        "codeIso2Country": "KG"
+    },
+    {
+        "countryId": "119",
+        "nameCountry": "Cambodia",
+        "codeIso2Country": "KH"
+    },
+    {
+        "countryId": "120",
+        "nameCountry": "Kiribati",
+        "codeIso2Country": "KI"
+    },
+    {
+        "countryId": "121",
+        "nameCountry": "Comoros",
+        "codeIso2Country": "KM"
+    },
+    {
+        "countryId": "122",
+        "nameCountry": "Saint Kitts and Nevis",
+        "codeIso2Country": "KN"
+    },
+    {
+        "countryId": "123",
+        "nameCountry": "North Korea",
+        "codeIso2Country": "KP"
+    },
+    {
+        "countryId": "124",
+        "nameCountry": "South Korea",
+        "codeIso2Country": "KR"
+    },
+    {
+        "countryId": "125",
+        "nameCountry": "Kuwait",
+        "codeIso2Country": "KW"
+    },
+    {
+        "countryId": "126",
+        "nameCountry": "Cayman Islands",
+        "codeIso2Country": "KY"
+    },
+    {
+        "countryId": "127",
+        "nameCountry": "Kazakhstan",
+        "codeIso2Country": "KZ"
+    },
+    {
+        "countryId": "128",
+        "nameCountry": "Laos",
+        "codeIso2Country": "LA"
+    },
+    {
+        "countryId": "129",
+        "nameCountry": "Lebanon",
+        "codeIso2Country": "LB"
+    },
+    {
+        "countryId": "130",
+        "nameCountry": "Saint Lucia",
+        "codeIso2Country": "LC"
+    },
+    {
+        "countryId": "131",
+        "nameCountry": "Liechtenstein",
+        "codeIso2Country": "LI"
+    },
+    {
+        "countryId": "132",
+        "nameCountry": "Sri Lanka",
+        "codeIso2Country": "LK"
+    },
+    {
+        "countryId": "133",
+        "nameCountry": "Liberia",
+        "codeIso2Country": "LR"
+    },
+    {
+        "countryId": "134",
+        "nameCountry": "Lesotho",
+        "codeIso2Country": "LS"
+    },
+    {
+        "countryId": "135",
+        "nameCountry": "Lithuania",
+        "codeIso2Country": "LT"
+    },
+    {
+        "countryId": "136",
+        "nameCountry": "Luxembourg",
+        "codeIso2Country": "LU"
+    },
+    {
+        "countryId": "137",
+        "nameCountry": "Latvia",
+        "codeIso2Country": "LV"
+    },
+    {
+        "countryId": "138",
+        "nameCountry": "Libya",
+        "codeIso2Country": "LY"
+    },
+    {
+        "countryId": "139",
+        "nameCountry": "Morocco",
+        "codeIso2Country": "MA"
+    },
+    {
+        "countryId": "140",
+        "nameCountry": "Monaco",
+        "codeIso2Country": "MC"
+    },
+    {
+        "countryId": "141",
+        "nameCountry": "Moldova",
+        "codeIso2Country": "MD"
+    },
+    {
+        "countryId": "142",
+        "nameCountry": "Montenegro",
+        "codeIso2Country": "ME"
+    },
+    {
+        "countryId": "143",
+        "nameCountry": "Saint Martin",
+        "codeIso2Country": "MF"
+    },
+    {
+        "countryId": "144",
+        "nameCountry": "Madagascar",
+        "codeIso2Country": "MG"
+    },
+    {
+        "countryId": "145",
+        "nameCountry": "Marshall Islands",
+        "codeIso2Country": "MH"
+    },
+    {
+        "countryId": "146",
+        "nameCountry": "Macedonia",
+        "codeIso2Country": "MK"
+    },
+    {
+        "countryId": "147",
+        "nameCountry": "Mali",
+        "codeIso2Country": "ML"
+    },
+    {
+        "countryId": "148",
+        "nameCountry": "Myanmar",
+        "codeIso2Country": "MM"
+    },
+    {
+        "countryId": "149",
+        "nameCountry": "Mongolia",
+        "codeIso2Country": "MN"
+    },
+    {
+        "countryId": "150",
+        "nameCountry": "Macao",
+        "codeIso2Country": "MO"
+    },
+    {
+        "countryId": "151",
+        "nameCountry": "Northern Mariana Islands",
+        "codeIso2Country": "MP"
+    },
+    {
+        "countryId": "152",
+        "nameCountry": "Martinique",
+        "codeIso2Country": "MQ"
+    },
+    {
+        "countryId": "153",
+        "nameCountry": "Mauritania",
+        "codeIso2Country": "MR"
+    },
+    {
+        "countryId": "154",
+        "nameCountry": "Montserrat",
+        "codeIso2Country": "MS"
+    },
+    {
+        "countryId": "155",
+        "nameCountry": "Malta",
+        "codeIso2Country": "MT"
+    },
+    {
+        "countryId": "156",
+        "nameCountry": "Mauritius",
+        "codeIso2Country": "MU"
+    },
+    {
+        "countryId": "157",
+        "nameCountry": "Maldives",
+        "codeIso2Country": "MV"
+    },
+    {
+        "countryId": "158",
+        "nameCountry": "Malawi",
+        "codeIso2Country": "MW"
+    },
+    {
+        "countryId": "159",
+        "nameCountry": "Mexico",
+        "codeIso2Country": "MX"
+    },
+    {
+        "countryId": "160",
+        "nameCountry": "Malaysia",
+        "codeIso2Country": "MY"
+    },
+    {
+        "countryId": "161",
+        "nameCountry": "Mozambique",
+        "codeIso2Country": "MZ"
+    },
+    {
+        "countryId": "162",
+        "nameCountry": "Namibia",
+        "codeIso2Country": "NA"
+    },
+    {
+        "countryId": "163",
+        "nameCountry": "New Caledonia",
+        "codeIso2Country": "NC"
+    },
+    {
+        "countryId": "164",
+        "nameCountry": "Niger",
+        "codeIso2Country": "NE"
+    },
+    {
+        "countryId": "165",
+        "nameCountry": "Norfolk Island",
+        "codeIso2Country": "NF"
+    },
+    {
+        "countryId": "166",
+        "nameCountry": "Nigeria",
+        "codeIso2Country": "NG"
+    },
+    {
+        "countryId": "167",
+        "nameCountry": "Nicaragua",
+        "codeIso2Country": "NI"
+    },
+    {
+        "countryId": "168",
+        "nameCountry": "Netherlands",
+        "codeIso2Country": "NL"
+    },
+    {
+        "countryId": "169",
+        "nameCountry": "Norway",
+        "codeIso2Country": "NO"
+    },
+    {
+        "countryId": "170",
+        "nameCountry": "Nepal",
+        "codeIso2Country": "NP"
+    },
+    {
+        "countryId": "171",
+        "nameCountry": "Nauru",
+        "codeIso2Country": "NR"
+    },
+    {
+        "countryId": "172",
+        "nameCountry": "Niue",
+        "codeIso2Country": "NU"
+    },
+    {
+        "countryId": "173",
+        "nameCountry": "New Zealand",
+        "codeIso2Country": "NZ"
+    },
+    {
+        "countryId": "174",
+        "nameCountry": "Oman",
+        "codeIso2Country": "OM"
+    },
+    {
+        "countryId": "175",
+        "nameCountry": "Panama",
+        "codeIso2Country": "PA"
+    },
+    {
+        "countryId": "176",
+        "nameCountry": "Peru",
+        "codeIso2Country": "PE"
+    },
+    {
+        "countryId": "177",
+        "nameCountry": "French Polynesia",
+        "codeIso2Country": "PF"
+    },
+    {
+        "countryId": "178",
+        "nameCountry": "Papua New Guinea",
+        "codeIso2Country": "PG"
+    },
+    {
+        "countryId": "179",
+        "nameCountry": "Philippines",
+        "codeIso2Country": "PH"
+    },
+    {
+        "countryId": "180",
+        "nameCountry": "Pakistan",
+        "codeIso2Country": "PK"
+    },
+    {
+        "countryId": "181",
+        "nameCountry": "Poland",
+        "codeIso2Country": "PL"
+    },
+    {
+        "countryId": "182",
+        "nameCountry": "Saint Pierre and Miquelon",
+        "codeIso2Country": "PM"
+    },
+    {
+        "countryId": "183",
+        "nameCountry": "Pitcairn",
+        "codeIso2Country": "PN"
+    },
+    {
+        "countryId": "184",
+        "nameCountry": "Puerto Rico",
+        "codeIso2Country": "PR"
+    },
+    {
+        "countryId": "185",
+        "nameCountry": "Palestinian Territory",
+        "codeIso2Country": "PS"
+    },
+    {
+        "countryId": "186",
+        "nameCountry": "Portugal",
+        "codeIso2Country": "PT"
+    },
+    {
+        "countryId": "187",
+        "nameCountry": "Palau",
+        "codeIso2Country": "PW"
+    },
+    {
+        "countryId": "188",
+        "nameCountry": "Paraguay",
+        "codeIso2Country": "PY"
+    },
+    {
+        "countryId": "189",
+        "nameCountry": "Qatar",
+        "codeIso2Country": "QA"
+    },
+    {
+        "countryId": "190",
+        "nameCountry": "Reunion",
+        "codeIso2Country": "RE"
+    },
+    {
+        "countryId": "191",
+        "nameCountry": "Romania",
+        "codeIso2Country": "RO"
+    },
+    {
+        "countryId": "192",
+        "nameCountry": "Serbia",
+        "codeIso2Country": "RS"
+    },
+    {
+        "countryId": "193",
+        "nameCountry": "Russia",
+        "codeIso2Country": "RU"
+    },
+    {
+        "countryId": "194",
+        "nameCountry": "Rwanda",
+        "codeIso2Country": "RW"
+    },
+    {
+        "countryId": "195",
+        "nameCountry": "Saudi Arabia",
+        "codeIso2Country": "SA"
+    },
+    {
+        "countryId": "196",
+        "nameCountry": "Solomon Islands",
+        "codeIso2Country": "SB"
+    },
+    {
+        "countryId": "197",
+        "nameCountry": "Seychelles",
+        "codeIso2Country": "SC"
+    },
+    {
+        "countryId": "198",
+        "nameCountry": "Sudan",
+        "codeIso2Country": "SD"
+    },
+    {
+        "countryId": "199",
+        "nameCountry": "Sweden",
+        "codeIso2Country": "SE"
+    },
+    {
+        "countryId": "200",
+        "nameCountry": "Singapore",
+        "codeIso2Country": "SG"
+    },
+    {
+        "countryId": "201",
+        "nameCountry": "Saint Helena",
+        "codeIso2Country": "SH"
+    },
+    {
+        "countryId": "202",
+        "nameCountry": "Slovenia",
+        "codeIso2Country": "SI"
+    },
+    {
+        "countryId": "203",
+        "nameCountry": "Svalbard and Jan Mayen",
+        "codeIso2Country": "SJ"
+    },
+    {
+        "countryId": "204",
+        "nameCountry": "Slovakia",
+        "codeIso2Country": "SK"
+    },
+    {
+        "countryId": "205",
+        "nameCountry": "Sierra Leone",
+        "codeIso2Country": "SL"
+    },
+    {
+        "countryId": "206",
+        "nameCountry": "San Marino",
+        "codeIso2Country": "SM"
+    },
+    {
+        "countryId": "207",
+        "nameCountry": "Senegal",
+        "codeIso2Country": "SN"
+    },
+    {
+        "countryId": "208",
+        "nameCountry": "Somalia",
+        "codeIso2Country": "SO"
+    },
+    {
+        "countryId": "209",
+        "nameCountry": "Suriname",
+        "codeIso2Country": "SR"
+    },
+    {
+        "countryId": "210",
+        "nameCountry": "South Sudan",
+        "codeIso2Country": "SS"
+    },
+    {
+        "countryId": "211",
+        "nameCountry": "Sao Tome and Principe",
+        "codeIso2Country": "ST"
+    },
+    {
+        "countryId": "212",
+        "nameCountry": "El Salvador",
+        "codeIso2Country": "SV"
+    },
+    {
+        "countryId": "213",
+        "nameCountry": "Sint Maarten",
+        "codeIso2Country": "SX"
+    },
+    {
+        "countryId": "214",
+        "nameCountry": "Syria",
+        "codeIso2Country": "SY"
+    },
+    {
+        "countryId": "215",
+        "nameCountry": "Swaziland",
+        "codeIso2Country": "SZ"
+    },
+    {
+        "countryId": "216",
+        "nameCountry": "Turks and Caicos Islands",
+        "codeIso2Country": "TC"
+    },
+    {
+        "countryId": "217",
+        "nameCountry": "Chad",
+        "codeIso2Country": "TD"
+    },
+    {
+        "countryId": "218",
+        "nameCountry": "French Southern Territories",
+        "codeIso2Country": "TF"
+    },
+    {
+        "countryId": "219",
+        "nameCountry": "Togo",
+        "codeIso2Country": "TG"
+    },
+    {
+        "countryId": "220",
+        "nameCountry": "Thailand",
+        "codeIso2Country": "TH"
+    },
+    {
+        "countryId": "221",
+        "nameCountry": "Tajikistan",
+        "codeIso2Country": "TJ"
+    },
+    {
+        "countryId": "222",
+        "nameCountry": "Tokelau",
+        "codeIso2Country": "TK"
+    },
+    {
+        "countryId": "223",
+        "nameCountry": "East Timor",
+        "codeIso2Country": "TL"
+    },
+    {
+        "countryId": "224",
+        "nameCountry": "Turkmenistan",
+        "codeIso2Country": "TM"
+    },
+    {
+        "countryId": "225",
+        "nameCountry": "Tunisia",
+        "codeIso2Country": "TN"
+    },
+    {
+        "countryId": "226",
+        "nameCountry": "Tonga",
+        "codeIso2Country": "TO"
+    },
+    {
+        "countryId": "227",
+        "nameCountry": "Turkey",
+        "codeIso2Country": "TR"
+    },
+    {
+        "countryId": "228",
+        "nameCountry": "Trinidad and Tobago",
+        "codeIso2Country": "TT"
+    },
+    {
+        "countryId": "229",
+        "nameCountry": "Tuvalu",
+        "codeIso2Country": "TV"
+    },
+    {
+        "countryId": "230",
+        "nameCountry": "Taiwan",
+        "codeIso2Country": "TW"
+    },
+    {
+        "countryId": "231",
+        "nameCountry": "Tanzania",
+        "codeIso2Country": "TZ"
+    },
+    {
+        "countryId": "232",
+        "nameCountry": "Ukraine",
+        "codeIso2Country": "UA"
+    },
+    {
+        "countryId": "233",
+        "nameCountry": "Uganda",
+        "codeIso2Country": "UG"
+    },
+    {
+        "countryId": "234",
+        "nameCountry": "United States Minor Outlying Islands",
+        "codeIso2Country": "UM"
+    },
+    {
+        "countryId": "235",
+        "nameCountry": "United States",
+        "codeIso2Country": "US"
+    },
+    {
+        "countryId": "236",
+        "nameCountry": "Uruguay",
+        "codeIso2Country": "UY"
+    },
+    {
+        "countryId": "237",
+        "nameCountry": "Uzbekistan",
+        "codeIso2Country": "UZ"
+    },
+    {
+        "countryId": "238",
+        "nameCountry": "Vatican",
+        "codeIso2Country": "VA"
+    },
+    {
+        "countryId": "239",
+        "nameCountry": "Saint Vincent and the Grenadines",
+        "codeIso2Country": "VC"
+    },
+    {
+        "countryId": "240",
+        "nameCountry": "Venezuela",
+        "codeIso2Country": "VE"
+    },
+    {
+        "countryId": "241",
+        "nameCountry": "British Virgin Islands",
+        "codeIso2Country": "VG"
+    },
+    {
+        "countryId": "242",
+        "nameCountry": "U.S. Virgin Islands",
+        "codeIso2Country": "VI"
+    },
+    {
+        "countryId": "243",
+        "nameCountry": "Vietnam",
+        "codeIso2Country": "VN"
+    },
+    {
+        "countryId": "244",
+        "nameCountry": "Vanuatu",
+        "codeIso2Country": "VU"
+    },
+    {
+        "countryId": "245",
+        "nameCountry": "Wallis and Futuna",
+        "codeIso2Country": "WF"
+    },
+    {
+        "countryId": "246",
+        "nameCountry": "Samoa",
+        "codeIso2Country": "WS"
+    },
+    {
+        "countryId": "247",
+        "nameCountry": "Kosovo",
+        "codeIso2Country": "XK"
+    },
+    {
+        "countryId": "248",
+        "nameCountry": "Yemen",
+        "codeIso2Country": "YE"
+    },
+    {
+        "countryId": "249",
+        "nameCountry": "Mayotte",
+        "codeIso2Country": "YT"
+    },
+    {
+        "countryId": "250",
+        "nameCountry": "South Africa",
+        "codeIso2Country": "ZA"
+    },
+    {
+        "countryId": "251",
+        "nameCountry": "Zambia",
+        "codeIso2Country": "ZM"
+    },
+    {
+        "countryId": "252",
+        "nameCountry": "Zimbabwe",
+        "codeIso2Country": "ZW"
+    }
+]
