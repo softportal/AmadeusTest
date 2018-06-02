@@ -4,4 +4,6 @@ module.exports = function(app) {
 
     // todoList Routes
     app.route('/airports').get(controller.list_all_airports);
+
+    app.route('/test').get(controller.test);
 };
