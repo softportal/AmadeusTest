@@ -35,6 +35,7 @@ exports.test = function(req, res) {
 
 };
 
+
 exports.search = function(req, res) {
     //
     //amadeus
@@ -54,6 +55,32 @@ exports.search = function(req, res) {
         console.log(error.response.request); //=> The details of the request made
         console.log(error.code); //=> A unique error code to identify the type of error
     });
+
+
+    //res.json(api_result);
+
+};
+
+
+
+
+exports.search_by_location = function(req, res) {
+    //
+    // Aiport Nearest Relevant Airport
+       var result=amadeus.referenceData.locations.airports.get({
+	   longitude : req.query.longitude,
+	   latitude  : req.query.latitude
+	})
+
+	api_result.then(function(response){
+		var query = response.result;
+		console.log(query);
+		
+	}).catch(function(error){
+		console.log(error.response); //=> The response object with (un)parsed data
+		console.log(error.response.request); //=> The details of the request made
+		console.log(error.code); //=> A unique error code to identify the type of error
+	});
 
 
     //res.json(api_result);

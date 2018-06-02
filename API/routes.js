@@ -8,4 +8,6 @@ module.exports = function(app) {
     app.route('/test').get(controller.test);
 
     app.route('/search').get(controller.search);
+	
+    app.route('/search-by-location').get(controller.search_by_location);
 };
