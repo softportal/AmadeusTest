@@ -83,10 +83,15 @@ exports.search_by_location = function(req, res) {
         var count = query.meta.count;
         console.log(count);
 
+
+
         for (var i = 0; i < count; i++) {
-            console.log("correcto "+i);
+            var airport = query.data[i];
+
+            console.log("correct! iata: " +airport.iataCode);
         }
 
+		console.log("\n");
 		console.log(query);
 	}).catch(function(error){
         process_error(error);
