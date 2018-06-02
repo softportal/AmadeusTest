@@ -7,7 +7,7 @@ var express = require('express'),
 
 mongoose.Promise = global.Promise;
 
-var mongoDB = 'mongodb://server01/test';
+var mongoDB = 'mongodb://127.0.0.1/test';
 mongoose.connect(mongoDB);
 
 app.use(bodyParser.urlencoded({ extended: true }));
