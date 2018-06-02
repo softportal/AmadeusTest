@@ -78,21 +78,58 @@ exports.search_by_location = function(req, res) {
 	   latitude  : req.query.latitude
 	})
 
+    var departure_date = req.query.init;
+    var origin = req.query.origin;
+    var list = []
+
 	result.then(function(response){
 		var query = response.result;
         var count = query.meta.count;
         console.log(count);
 
-
-
         for (var i = 0; i < count; i++) {
             var airport = query.data[i];
 
-            console.log("correct! iata: " +airport.iataCode);
+            console.log("correct! iata: " +airport.iataCode+ " ");
+            console.log("origin: " +origin + "departuredate " + departure_date);
+            console.log("\n");
+
+			// Flight Low-fare Search
+			  var reqn = amadeus.shopping.flightOffers.get({
+                  origin : origin.toString(),
+                  destination : airport.iataCode.toString(),
+                  departureDate : departure_date.toString()
+			});
+
+            reqn.then(function(response){
+                var queryn = response.result;
+                console.log("\n");
+                console.log(queryn);
+
+
+                for (var j = 0; j < queryn.data.length; i++){
+
+                    var offer_items = data[j].offerItems;
+                    var off_last = offer_items[offer_items.length -1];
+                    var services = off_last.services
+                    var service_last = services[services.lenght -1];
+                    var segments = service_last.segments;
+                    var segment_last = segments[segments.lenght -1];
+
+                    var fsegment = segment_last.arrival.iataCode;
+                    list.push({destination: fsegment.arrival.iataCode, price: {total: off_last.price.total}});
+                }
+
+            }).catch(function(error){
+                process_error(error);
+            });
         }
 
+        //res.json(response.result)
+        res.json(list);
+
 		console.log("\n");
-		console.log(query);
+		//console.log(query);
 	}).catch(function(error){
         process_error(error);
 	});
